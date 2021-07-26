@@ -17,10 +17,16 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <tags>
+        <tag>Blog</tag>
+      </tags>
   </entry>
   <entry>
-    <title>test_my_site</title>
+    <title>Test My Site</title>
     <url>/2021/07/13/test-my-site/</url>
     <content><![CDATA[]]></content>
+      <tags>
+        <tag>Blog</tag>
+      </tags>
   </entry>
 </search>

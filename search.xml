@@ -3,8 +3,7 @@
   <entry>
     <title>Test My Site</title>
     <url>/2021/07/13/test-my-site/</url>
-    <content><![CDATA[<p>** 博客测试</p>
-<blockquote>
+    <content><![CDATA[<h2 id="博客测试"><a href="#博客测试" class="headerlink" title="博客测试"></a>博客测试</h2><blockquote>
 <p>这是一个测试集散点，不代表本人观点，胡说八道请勿当真</p>
 </blockquote>
 ]]></content>
